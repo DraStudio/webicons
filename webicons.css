@@ -114,6 +114,18 @@
 .svg .webicon.apple {
   background: url("webicons/webicon-apple.svg"); }
 
+.no-svg .webicon.artstation {
+  background: url("webicons/webicon-artstation-m.png"); }
+
+.no-svg .webicon.artstation.large {
+  background: url("webicons/webicon-artstation.png"); }
+
+.no-svg .webicon.artstation.small {
+  background: url("webicons/webicon-artstation-s.png"); }
+
+.svg .webicon.artstation {
+  background: url("webicons/webicon-artstation.svg"); }
+
 .no-svg .webicon.behance {
   background: url("webicons/webicon-behance-m.png"); }
 
